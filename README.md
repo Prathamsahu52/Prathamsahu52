@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pratham Sahu
-- 👀 I’m highly interested in Computer Science and its intersection with Mathematicd
+- 👀 I’m highly interested in Computer Science and its intersection with Mathematics
 - 🌱 I’m currently interested in WebDevelopment and Machine Learning
 - 
 
