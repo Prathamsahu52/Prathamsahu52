@@ -36,3 +36,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://komarev.com/ghpvc/?username=Prathamsahu52&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
+
+## Random
+
+<details>
+ <summary>Listening on the Spotify</summary>
+ 
+  <div align="center">
+                     <a href="https://github.com/isyuricunha">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=2kw9wxrrjo2eezx3i2239xqzn6">
+  </div>
+</details>
