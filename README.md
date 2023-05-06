@@ -43,7 +43,6 @@ You can click the Preview link to take a look at your changes.
  <summary>Listening on the Spotify</summary>
  
   <div align="center">
-                     <a href="https://github.com/isyuricunha">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=2kw9wxrrjo2eezx3i2239xqzn6">
+    ![ Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=kw9wxrrjo2eezx3i2239xqzn6)
   </div>
 </details>
