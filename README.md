@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <summary>Activity Graph 📈</summary>
   <br/>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pratham's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Prathamsahu52&theme=github-compact" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Pratham's Activity Graph" src="https://github-readme-activity-graph.cyclic.vercel.app/graph?username=Prathamsahu52&theme=github-compact" /></a>
 
 </details>
 
